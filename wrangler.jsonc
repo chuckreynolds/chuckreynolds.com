@@ -14,5 +14,11 @@
     // miss, which Google treats as a soft 404.
     "not_found_handling": "404-page",
     "html_handling": "auto-trailing-slash"
+  },
+  // Workers Logs, retained 7 days. Sampling stays at 1 (every request) because
+  // the traffic here is nowhere near the volume that would make it worth cutting.
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
   }
 }
