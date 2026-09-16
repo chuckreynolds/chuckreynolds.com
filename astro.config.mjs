@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import markdownTwin from './src/integrations/markdown-twin.mjs';
 
 export default defineConfig({
   site: 'https://chuckreynolds.com',
@@ -10,5 +11,5 @@ export default defineConfig({
   image: {
     responsiveStyles: true,
   },
-  integrations: [sitemap()],
+  integrations: [sitemap(), markdownTwin()],
 });
