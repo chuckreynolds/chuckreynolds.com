@@ -3,6 +3,10 @@
   "name": "chuckreynolds-com",
   "compatibility_date": "2026-09-15",
   "main": "./worker/index.ts",
+  // Served only at chuckreynolds.com. The workers.dev and preview URLs would be
+  // public duplicates of the site.
+  "workers_dev": false,
+  "preview_urls": false,
   "assets": {
     "directory": "./dist/",
     "binding": "ASSETS",
