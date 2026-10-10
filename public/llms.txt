@@ -1,9 +1,10 @@
 # Chuck Reynolds
 
-> Staff Product Manager, Growth at Wikimedia Enterprise, the commercial API
-> platform for Wikipedia, Wikidata, and the Wikimedia projects. Delivery
-> infrastructure, retrieval and grounding APIs, enterprise API strategy, and
-> developer experience.
+> Works with founders, engineering leads, and go-to-market teams on products
+> end to end: how they're built, how teams ship them, and how real people use
+> them. Systems and process, AI enablement for teams, growth and go-to-market.
+> Open to fractional and project work. Currently Staff Product Manager, Growth
+> at Wikimedia Enterprise.
 
 This is a single-page personal site. The homepage contains the complete
 content; every other link here points off-site. Contact: hello@chuckreynolds.com
@@ -27,7 +28,3 @@ content; every other link here points off-site. Contact: hello@chuckreynolds.com
 - [Bluesky](https://bsky.app/profile/chuckreynolds.com)
 - [X](https://x.com/chuckreynolds)
 - [Mastodon](https://mastodon.xyz/@chuck)
-
-## Optional
-
-- [UpChuck](https://upchuck.us): Blog.
